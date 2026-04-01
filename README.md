@@ -61,7 +61,7 @@ Welcome to my collection of final projects and case studies completed across var
 * **Theory:** Cybersecurity Risk Management, Business Intelligence, Data Analysis, Computational Thinking
 
 ## 📬 Contact
-* **GitHub:** [@yourusername](https://github.com/krsnp5)
+* **GitHub:** [@krsnp5](https://github.com/krsnp5)
 
 ---
 *“This is CS50.”*
