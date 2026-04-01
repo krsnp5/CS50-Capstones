@@ -10,7 +10,7 @@ Welcome to my collection of final projects and case studies completed across var
 ### 1. [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)
 * **Status:** 🏗️ **Capstone - In Development**
 * **Project Name:** LLM Fuzzer
-* **Tech Stack:** C, Python, SQL, Flask
+* **Tech Stack:** Javascript, Python, SQL, Flask
 * **[🔗 View Project Sub-directory]([./cs50x](https://github.com/krsnp5/CS50-Capstones/tree/main/CS50-X))**
 
 ### 2. [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
