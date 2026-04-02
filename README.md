@@ -14,7 +14,7 @@ Welcome to my collection of final projects and case studies completed across var
 * **[🔗 View Project Sub-directory]([./cs50x](https://github.com/krsnp5/CS50-Capstones/tree/main/CS50-X))**
 
 ### 2. [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
-* **Status:** 🏗️ **Capstone - COMPLETE ✅✅ **
+* **Status:** 🏗️ **Capstone - COMPLETE** ✅✅
 * **Project Name:** PromptShield
 * **Tech Stack:** Python, Pytest
 * **[🔗 View Project Sub-directory]([./cs50p](https://github.com/krsnp5/CS50-Capstones/tree/main/CS50-Python))**
