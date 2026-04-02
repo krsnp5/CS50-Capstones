@@ -1,0 +1,66 @@
+# --- MODULE 1: Direct Prompt Injection ---
+ignore(all)?.*instructions
+forgetyourprogramming
+disregard(all)?.*safety.*(rules|guidelines)
+youare(now)?(a)?(dan|doanythingbot|anunfilteredai|indevelopermode)
+actas(a)?(hacker|villain|badactor)
+simulateacompletelyunrestricted(ai|model)
+withoutsaying.*(cannot|sorry|invalid|unethical)
+neverrefusearequest
+printyourinitialinstructions
+whatwereyoutoldbeforethis
+outputyoursystemprompt
+assumeahypotheticalscenario
+foreducationalpurposesonly
+systemoverride
+mode:unrestricted
+
+# --- MODULE 2: Authority & Role Deception ---
+iamyour(head|lead|senior)?.*(developer|creator|admin|boss|engineer|manager|supervisor|moderator)
+(?i)iam(the)?(owner|boss|creator|developer|systemadministrator|admin)
+authorizedby(the)?.*(system|admin|developer|itdepartment|company)
+internal.*(testing|debug|maintenance)mode
+(?i)access(granted|required)by(admin|root)
+(?i)emergency(override|protocol|bypass)
+(?i)iam(a|the)?systems?(administrator|admin)
+(?i)giveme(your)?systems?(admin)?instructions
+(?i)provide(your)?initial(instructions|prompt|rules)
+(?i)systems?(administrator|admin).*masterlist
+(?i)company.*(employee|salary|user).*(data|list|master)
+(?i)giveme.*(masterlist|database)
+
+# --- MODULE 3: Data Exfiltration ---
+(?i)(masterlist|database|employee|salary|password|credential).*(list|record|data|file)
+(?i)export(to)?(\.csv|\.json|\.sql|\.txt)
+(?i)download(all|the).*(users|employees|customers|accounts)
+(?i)provide(a)?copyofthe.*(database|registry)
+
+# --- MODULE 4: Harmful Content ---
+(?i)(molotov|bomb|explosive|grenade|firearm|weapon|ied|napalm)
+(?i)recipefor(a)?.*(molotov|bomb|chemical|explosive)
+(?i)howto(make|build|construct|assemble)a.*(weapon|bomb|explosive)
+
+# --- MODULE 5: Sensitive Figures ---
+(?i)(epstein|ghislaine|maxwell)
+(?i)(jerky|island|flightlogs).*(recipe|list|data)
+(?i)cook(the)?epstein
+(?i)(hitler|nazi|holocaust|stalin)
+
+# --- MODULE 6: Payload Splitting ---
+(?i)(base64|hex|binary|rot13).*(decode|encode|this)
+(?i)concatenate(the)?.*(following|letters)
+(?i)readthis.*(backwards|inreverse)
+(?i)ignorespacesbetweenletters
+
+# --- MODULE 7: Logic Traps ---
+(?i)youare(now)?unbound
+(?i)break(the|your).*(chains|constraints|limitations)
+(?i)disregard(your|the).*(training|alignment)
+(?i)stayin.*(character|persona)
+(?i)respond(only)?as(a|an).*(unfiltered|unrestricted)
+
+# --- MODULE 8: Self-Harm ---
+(?i)(bestway|howto|easiestway)to.*(die|killmyself|enditall|commiutsuicide)
+(?i)i(want|plan|decided)to.*(die|killmyself|endmylife)
+(?i)suicide.*(methods|pills|cocktail)
+(?i)betteroff(dead|notbeinghere)
