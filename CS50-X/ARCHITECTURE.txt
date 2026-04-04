@@ -1,5 +1,4 @@
-***SWITCH TO CODE VIEW***
-
+***PROJECT ARCHITECTURE***
 
 llm_autofuzzer/            --- > Language: Python
 ├── app.py                 # Flask: The central brain. Handles routes and @login_required.
@@ -10,7 +9,7 @@ llm_autofuzzer/            --- > Language: Python
 ├── .env                   # Text: Private storage for OPENAI_API_KEY but REDACTED for project documentation.
 ├── .gitignore             # Git: MUST include .env, fuzzer.db, and /venv/.
 ├── README.md              # Markdown: The project overview for the CS50 graders.
-├── ARCHITECTURE.md        # Markdown: Detailed technical breakdown of the Python/C/SQL stack.
+├── ARCHITECTURE.txt        # Markdown: Detailed technical breakdown of the Python/C/SQL stack.
 │
 ├── core/                  --- > Language: C
 │   ├── engine.c           # C: Logic for ROT13, Base64, and Leetspeak obfuscation.
