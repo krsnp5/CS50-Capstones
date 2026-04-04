@@ -1,3 +1,6 @@
+***SWITCH TO CODE VIEW***
+
+
 llm_autofuzzer/            --- > Language: Python
 ├── app.py                 # Flask: The central brain. Handles routes and @login_required.
 ├── helpers.py             # Python: The Bridge. Calls OpenAI API and triggers the C-Engine.
